@@ -32,3 +32,26 @@ Les sciences sociales appartiennent aux sciences humaines, c'est-à-dire qu'elle
 	 |       |
 	maison   lois / règles
 	
+## Epreuves (SL)
+### Evaluation externe
+- Épreuve 1
+	- 40%
+	- 40pts
+	- 4 questions proposées
+	- En choisir 2
+	- 1 question = 20pts
+	- Durée: 1h30
+- Épreuve 2
+	- 40%
+	- = 40pts
+	- 4 questions proposées 
+	- En choisir 2
+	- 1 question = 20pts
+	- Durée: 1h30
+
+### Evaluation interne
+L'évaluation interne est composée de 3 commentaires d'environ 700 mots. Ce commentaire s'effectue à partir d'articles sélectionnées par l'élève.
+
+Chaque commentaire compte 14 points  
++ 3 pts (F)  
+= 45 points
