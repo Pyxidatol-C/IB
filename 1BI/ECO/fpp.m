@@ -14,7 +14,7 @@ ind = [(1:5) 7];  % valeurs pour la courbe
 figure;
 scatter(beurre, canon)
 
-title("la fpp")
+title("la fpp dans les pays à haut revenu")
 xlabel("Beurre (en Mi de kg)")  % Mi = millions
 ylabel("Canon (millieres)")
 xticks((0:5))

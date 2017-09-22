@@ -1,3 +1,5 @@
+`2017-09-11 Monday`
+
 TOK syllabus is divided into 
 
 - _Areas of Knowledge_:
@@ -64,5 +66,39 @@ Philosophers question the very basis of our knowledge and wonder how certain can
 	-  = explanations
 	-  contains subjectivity
 
-#HW 
+## HW 
 a chocolate cake that you made yourself
+
+`2017-09-18 Monday`
+# TOK History
+## History
+History is a reconstruction of the **past** carried out by professional historians on the basis of *available* **evidence** (= sources) in order to understand what exactly happened and why.
+
+## Where is the subjective element?
+HISTORIANS write about 
+
+- **WHAT** happened in the past
+	- ingredients: eggs, flour, butter, sugar, chocolate
+	- BEDROCK of history
+	- _Objective_: SAME FACTS
+- **WHY** it happened
+	- recipe
+		- new ingredients (i.e. milk, almond powder) = new document
+		- How hot oven is
+		- quantity of ingredient = importance of given to each factor / cause
+	- one element of _subjectivity_: why / how
+
+## The CAKE exercise
+- Aesthetic judgement
+	- ≠ anesthetic
+	- value / appealing to some feeling
+
+is a _construction_.  
+So is _History_. (subjectivity, choices)
+
+- Can a cake be "FAKE"?
+	- (Do "fake news" count as news / fact?)
+- Can a cake be _unreliable_?
+- Do you distrust a cake?
+
+## What shapes a historian's perspective?
