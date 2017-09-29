@@ -102,3 +102,51 @@ So is _History_. (subjectivity, choices)
 - Do you distrust a cake?
 
 ## What shapes a historian's perspective?
+
+`2017-09-25`
+# To What extent is "perspective" a challenge in History?
+- to be handed in 16th Oct
+- Subjectivity vs objectivity
+- perspective: _filter_(s) that shape(s) our understanding of Reality
+- encompasses bias = negative (prejudice)
+- comes from biological components (e.g. senses, gender)
+
+## Ted Cruz campaign
+- Behavioural Science
+    - Psycho-graphics
+    - OCEAN Model
+        - all anxious people
+        - all outgoing people
+    - drawing up "psychological" profile or personality MODELS
+    - vs. demographics = 'all women', 'all retired people', etc.
+    - or geographics = 'all Italians'
+- BIG DATA Analytics = using DATA  to target audience
+    - which message for which audience
+    - = aggregation of thousands of individual data
+    - e.g. Netflix, Amazon, Google, etc.
+    - 4,000 or 5,000 data on **each** American
+
+=> perspective
+
+## Where do problems in History come from?
+### _SOURCES_
+- they are _one-sided_ / reliability
+- understanding them: lack of context
+- _NOT enough_
+- _too MANY_
+
+### _HISTORIAN_
+- multiple _perspectives_
+- their way of _SELECTING_
+
+- e.g. Nanking incident vs Rape of Nanking / Nanking massacre
+- e.g. Middle Ages: clergyman wrote historical records, giving impression that the period is religious
+
+## The Role of Selection in History
+History is always a selection.  
+Historians choose which events to study.  
+Write about = historical events are those that had great impact on manny people  
+They choose which aspect to study of what sources to use.  
+They choose which questions they answer & how.  
+This is where the subjectivity of the historian matters!
+

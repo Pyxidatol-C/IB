@@ -43,3 +43,60 @@ plt.tight_layout()
 
 - $v = \frac{\Delta x}{\Delta t}$ (change in displacement over time)
 - $a = \frac{\Delta{v}}{\Delta{t}}$ (change in velocity over time)
+
+## Equation of motion for constant acceleration
+$v = v_0 + at$  
+$x = v_0 t - \frac{1}{2} a t^2 + x_0$  
+$v^2 = {v_0}^2 + 2 a x$  
+${v_y}^2 = v_{0y}^2 + 2 a y$
+
+## Exercise
+### 1.
+What will the max height for the cannonball? given:
+$v = 25m/s$
+$\alpha = 25º$
+
+at maximum height $v_y = 0$, so $0 = {v_{0y}}^2 + 2ay \Leftrightarrow y = \frac{-{v_{0y}}^2}{2a}$  
+$y = \frac{-v\sin(\theta)^2}{2a} = 5.6m$
+
+### 2.
+Firefighter aiming hose at 78.5º.  
+Water leaving hose at 32m/s.  
+What height can the water reach?
+
+$y = \frac{-(32 \sin(78.5º)^2}{-20} = 49m$
+
+## Air resistance
+Weight of object and force of air resistance are equal to each other at terminal velocity.
+
+Air resistance / Drag, $\text{AirR}$
+
+- $\propto v^2$
+- $\propto$ surface Area
+- $\propto \rho$  (density of fluid)
+- $\propto$ drag coefficient
+
+# Balanced forces
+Focus are in equilibrium $\Rightarrow \vec{F_1} + \vec{F_2} + \vec{w} = \vec{0}$
+
+    F1      F2
+    -       -
+    |\ θ|θ /|
+      \-|-/
+       \|/
+        |
+        |
+        |
+       \ /
+        w
+       
+- $F_{1x} = F_1 \cos \theta$
+- $F_{1y} = F_1 \sin \theta$
+- $F_{1x} = F_2 \cos \theta$
+- $F_{1y} = F_2 \sin \theta$
+- $w_x = 0$
+- $w_y = w$
+
+$\vec{F_1} + \vec{F_2} + \vec{w} = 0$  
+$\vec{F_1} \sin \theta + \vec{F_2} \sin \theta = -w$  
+$\vec{F_{1y}} + \vec{F_{2y}} = - \vec{w}$

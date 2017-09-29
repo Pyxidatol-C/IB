@@ -1,5 +1,5 @@
 # Méthode
 ## DED
-- Définition
+- Définition (+contexte)
 - Exemple
 - Diagramme
