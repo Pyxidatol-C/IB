@@ -100,3 +100,37 @@ Focus are in equilibrium $\Rightarrow \vec{F_1} + \vec{F_2} + \vec{w} = \vec{0}$
 $\vec{F_1} + \vec{F_2} + \vec{w} = 0$  
 $\vec{F_1} \sin \theta + \vec{F_2} \sin \theta = -w$  
 $\vec{F_{1y}} + \vec{F_{2y}} = - \vec{w}$
+
+# Power, work, energy in mechanical systems
+## Energy 
+Energy is the potential to do work, measured in Joules.
+
+### Kinetic energy
+Kinetic energy is relative to motion:  
+$$E_k = \frac{1}{2} m v^2$$
+
+### Gravitational potential energy
+The energy related to a gravitational field.  
+$$E_p = m g h$$
+
+- `m`: mass
+- `g`: gravitational acceleration
+- `h`: height
+
+In a closed system with no heat losses, mechanical energy is conserved:  
+$$E_p + E_k = \text{constant}$$
+
+Energy is **always** conserved.
+
+## Work
+Work is the energy being transferred from one thing to another.
+
+In mechanics, this transferrence is via a force.
+
+$$W = F d$$
+
+- `W`: $[J] = \frac{[kg] \times [m]^2}{[s]^2}$
+- `F = m a`: $[N] = \frac{[kg] \times [m]}{[s]^2}$
+- `d`(displacement) = $[m]$
+
+Note: force and displacement should in the same direction ($W = cos \theta F s$)
