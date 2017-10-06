@@ -1,5 +1,5 @@
 `2017-09-18 Monday`
-# Mechanics
+# Motion
 - Displacement ($m$): $x$ (initial displacement: $x_0$)
 - Velocity ($m/s$): $v$ (initial velocity: $v_0$)
 - Acceleration ($m/s^2$): $a$ 
@@ -46,7 +46,7 @@ plt.tight_layout()
 
 ## Equation of motion for constant acceleration
 $v = v_0 + at$  
-$x = v_0 t - \frac{1}{2} a t^2 + x_0$  
+$x = v_0 t + \frac{1}{2} a t^2 + x_0$  
 $v^2 = {v_0}^2 + 2 a x$  
 ${v_y}^2 = v_{0y}^2 + 2 a y$
 
@@ -76,8 +76,12 @@ Air resistance / Drag, $\text{AirR}$
 - $\propto \rho$  (density of fluid)
 - $\propto$ drag coefficient
 
+`2017-10-05 Thursday`
 # Balanced forces
 Focus are in equilibrium $\Rightarrow \vec{F_1} + \vec{F_2} + \vec{w} = \vec{0}$
+
+## Free body diagram
+Diagram that shows forces acting on an object
 
     F1      F2
     -       -
@@ -95,8 +99,48 @@ Focus are in equilibrium $\Rightarrow \vec{F_1} + \vec{F_2} + \vec{w} = \vec{0}$
 - $F_{1x} = F_2 \cos \theta$
 - $F_{1y} = F_2 \sin \theta$
 - $w_x = 0$
-- $w_y = w$
+- $w_y = \vec{w} = m \vec{g}$
 
 $\vec{F_1} + \vec{F_2} + \vec{w} = 0$  
-$\vec{F_1} \sin \theta + \vec{F_2} \sin \theta = -w$  
+$\vec{F_1} \sin \theta + \vec{F_2} \sin \theta = -\vec{w}$  
 $\vec{F_{1y}} + \vec{F_{2y}} = - \vec{w}$
+
+### In this case
+- Weight = mass * gravitational acceleration $\vec{g}$
+    - On Earth, $g = 9.81 m/s^2 (N/kg)$
+
+## Newton's laws of motion
+### I. Any object moving at a constant velocity or at rest has no _net_ / resultant force exerted on it.
+### II. $F_{net} = m a = m \frac{dv}{dt} = m \frac{\Delta v}{\Delta t} = \frac{\Delta m v}{\Delta t} = \frac{\Delta p}{\Delta t}$
+
+### Exercise
+        _____ ___________
+    -> |  X  |     Y     |
+    F  |   m |      2 m  |
+       |_____|___________|
+move at constant speed.
+
+What is the net force acting on y?
+
+- **A. 0 N**
+- B. $F/2$ N
+- C. $F$ N
+- D. $2F$ N
+
+$\text{'constant speed'} \Leftrightarrow a = 0 \Leftrightarrow F = ma = 0 N$
+
+### Exercise
+           | cable
+           |
+     -------------
+    |             |
+    |    _____    |
+    |   | Load|   | | a = 2m/s^2
+    |   |750kg|   | ^
+    |___|_____|___|
+
+What is the tension in the cable?
+
+$$F_{net} = ma = 160 \cdot 2 = 1500 N$$
+$$F_{net} = W + T$$
+$$T = F_{net} - W = 1 500 - 7500 = -6 000$$

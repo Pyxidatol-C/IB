@@ -112,7 +112,7 @@ So is _History_. (subjectivity, choices)
 - comes from biological components (e.g. senses, gender)
 
 ## Ted Cruz campaign
-- Behavioural Science
+- Behavioral Science
     - Psycho-graphics
     - OCEAN Model
         - all anxious people
@@ -150,3 +150,81 @@ They choose which aspect to study of what sources to use.
 They choose which questions they answer & how.  
 This is where the subjectivity of the historian matters!
 
+`2017-10-02`
+## TOK Essay
+### To what extent is `Perspective` a problem in History?
+#### *800* words (*1000* MAX)
+#### Due Oct. 16th
+
+- What & why & how is `Perspective` a PROBLEM?
+- What & why & how is `Perspective` _NOT_ a problem, but a strength?
+
+## Perspective in History
+What is Perspective?
+
+_How_ (in what ways) can / does it shape Historian's Knowledge?
+
+- **Political** perspective
+    - a strong political identity / opinion
+        - E. H. Carr
+            - communist
+            - "What is History"
+        - R. Pipes
+            - anti-communist
+            - had access to Soviet archives
+        - => Both specialists of Russian Revolutions
+- **Cultural** perspective
+    - e.g. Armenian genocide viewed by Armenian and Turkish historians
+    - e.g. Rape of Nanking viewed by Japanese historians
+- Ideological / **Religion**
+- Social position
+    - economic category
+- Time & Place
+- Censorship
+- Gender
+- Biological
+
+### Perspective can be in the
+- SOURCES
+- with the Historian 
+
+### Examples
+- Serge Klarsfeld
+    - Jews deported from France during WWII
+    - a lawyer ≠ historian
+    - doing it for his father
+    - perspective of a Jewish orphan => motivation
+- Cold War Historians
+    - democracy in US ≠ censorship in USSR
+- Medieval monks
+    - Are the middle ages as religious as we perceive it?
+    - medieval monks are the only ones to leave history
+- HERODOTUS
+    - only source for Greco-Persian wars
+- Payette Hoffmann
+    - l'exode to her was the best summer ≠ traumatism
+    - far less traumatic for people from upper classes than those from lower classes
+
+## Writing a TOK ESSAY
+### Introduction
+- GO STRAIGHT into the question
+- use EXAMPLES from History
+
+1. EXPLAIN the question: define key words / concepts (in several ways)
+2. Thesis statement = clear ANSWER
+
+### Paragraphs
+- **P**oint
+    - _not a fact_, it's one possible ANSWER
+- **E**xplain
+- **E**xample
+    - professional / from real historians
+    - personal examples
+- **L**ink
+    - back to the question
+
+### Conclusion
+Sums up the main argument
+
+* the main conter argument
+* provides a final + clear answer (must take side)

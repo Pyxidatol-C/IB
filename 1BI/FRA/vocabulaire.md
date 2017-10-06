@@ -18,6 +18,11 @@
 - opprimé
 - idéologie
 
-1 2 3 4 5 6 7 8 9  
-4 5 6 7 8 9 1 2 3  
-7 8 9 1 2 3 4 5 6  
+### `2017-10-03`
+- quotidien
+- accoiser
+
+### `2017-10-05`
+- orthoptie 视轴矫正
+- greffon 移植
+- oto-rhino-laryngologie (ORL) 五官科学/耳鼻喉科学
