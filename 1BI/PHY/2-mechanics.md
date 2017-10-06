@@ -144,3 +144,37 @@ What is the tension in the cable?
 $$F_{net} = ma = 160 \cdot 2 = 1500 N$$
 $$F_{net} = W + T$$
 $$T = F_{net} - W = 1 500 - 7500 = -6 000$$
+
+# Power, work, energy in mechanical systems
+## Energy 
+Energy is the potential to do work, measured in Joules.
+
+### Kinetic energy
+Kinetic energy is relative to motion:  
+$$E_k = \frac{1}{2} m v^2$$
+
+### Gravitational potential energy
+The energy related to a gravitational field.  
+$$E_p = m g h$$
+
+- `m`: mass
+- `g`: gravitational acceleration
+- `h`: height
+
+In a closed system with no heat losses, mechanical energy is conserved:  
+$$E_p + E_k = \text{constant}$$
+
+Energy is **always** conserved.
+
+## Work
+Work is the energy being transferred from one thing to another.
+
+In mechanics, this transferrence is via a force.
+
+$$W = F d$$
+
+- `W`: $[J] = \frac{[kg] \times [m]^2}{[s]^2}$
+- `F = m a`: $[N] = \frac{[kg] \times [m]}{[s]^2}$
+- `d`(displacement) = $[m]$
+
+Note: force and displacement should in the same direction ($W = cos \theta F s$)
