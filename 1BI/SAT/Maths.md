@@ -12,3 +12,11 @@ S = {-5; 1}
 Solve for x in $2^{x^2} \cdot 4^{2x} = 35$
 
 $x = $
+
+# Algebra vs PITA (LQLA)
+## Systems
+### (I) Elimination
+### (II) Substitution
+
+$$3x + 5y = 7$$
+$$10x + 2y = 3$$

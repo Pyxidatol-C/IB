@@ -93,7 +93,7 @@ HISTORIANS write about
 	- ≠ anesthetic
 	- value / appealing to some feeling
 
-is a _construction_.  
+is a _reconstruction_.  
 So is _History_. (subjectivity, choices)
 
 - Can a cake be "FAKE"?
@@ -222,9 +222,57 @@ _How_ (in what ways) can / does it shape Historian's Knowledge?
     - personal examples
 - **L**ink
     - back to the question
+- length: 1 / 3 to 40% of 1 side
 
 ### Conclusion
-Sums up the main argument
+Sums up 
 
-* the main conter argument
+* the main argument
+* the main counter argument
 * provides a final + clear answer (must take side)
+
+## Notes
+Spatial organization is important!
+
+- titles, sub-titles
+- themes
+- reference / bibliography
+
+### Shopping list: not effective
+* ...
+* ...
+* ...
+
+### Good organization:
+
+              ------>
+              bedrock
+     _______          _________
+    |Primary|   vs   |Secondary|
+     ‾‾‾‾‾‾‾          ‾‾‾‾‾‾‾‾‾
+       ||                 ||
+       \/                 \/
+       Written          Written
+       at the time      after time
+       Ex.              Ex. 
+
+> History is a constant conversation between the past and the present. - E. H. Carr
+
+# Theories in History
+## Definition of Knowledge
+- Justified (true) belief
+    - A. Getty 19602
+    - knowledge claim
+        - I know something
+        - You believe in something:
+            - e.g. You believe the chair is made of wood.
+        - You must be able to prove it
+        - it must be true
+- A representation of reality
+    - ≠ reality
+
+Theories in history ≠ theories in science:
+
+- Theory has to apply to all cases
+- impossible in history
+    - Marxist theory: economic determinism
