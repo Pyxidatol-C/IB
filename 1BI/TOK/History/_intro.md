@@ -276,3 +276,15 @@ Theories in history ≠ theories in science:
 - Theory has to apply to all cases
 - impossible in history
     - Marxist theory: economic determinism
+
+## Causation in History
+History _framework of knowledge_:  
+_key concepts_ in History
+
+- Methodology
+- Language
+- _Key concepts_
+    - causation
+        - rational
+        - Cleopatra's nose
+    - ≠ value-laden language
