@@ -42,3 +42,25 @@ $$10x + 2y = 3$$
 - `linear`: $y = mx + b$
 - `exponential`: $y = a^x$
 - `quadratic`: $a x^2 + b x + c$
+
+## Remainders
+Whole number left over when we reach the decimal point in long division
+
+What is the remainder when 7 is divided by 3?
+
+           3 - diviser
+        ____
+    2  |   7 - dividend
+           6
+           -
+           1 - remainder
+
+notes:
+
+1. The remainder must be less than the divisor
+2. If the divisor is greater than dividend, the remainder equals the dividend (7 % 9 = 7)
+3. Calculator trick
+    1. divide
+    2. subtract the integer portion of the result
+    3. multiply the result from (2) by the divisor
+    4. simply just use the modulo function

@@ -288,3 +288,12 @@ _key concepts_ in History
         - rational
         - Cleopatra's nose
     - ≠ value-laden language
+
+## TOK Essay Feedback
+- Clarity => Logic
+- Paragraphs MUST deal with **ONE** point only
+- quality of the **EXAMPLES**
+    - EE
+    - IAs
+    - experiments in LAB
+- Footnotes
