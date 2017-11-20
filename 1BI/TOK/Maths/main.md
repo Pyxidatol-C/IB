@@ -20,4 +20,8 @@
 - Socrates is a man
 - $\therefore$ Socrates is mortal
 
-## Mathematical knowledge
+## Grounds of mathematics
+- consistency
+- axioms
+    - simple, self-evident
+    - require neither factual evidence nor any other justifications
