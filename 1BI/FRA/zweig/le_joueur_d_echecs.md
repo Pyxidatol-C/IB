@@ -59,4 +59,21 @@ psychopathologie
 - « situation aberrante » => hors de la norme
 - « aussi paradoxal que de vouloir sauter par-dessus son ombre »
     - comparaison
-    - paradoxal, abberant
+    - paradoxal, aberrant
+
+`monomanie`: (psychiatrique) délire caractérisé par la fixation de l'esprit sur un objet unique; 
+
+## Problématique: Qui est Czentovic?
+
+### Axe I: paysan roublard
+- « Dissimulé derrière son insondable étroitesse d'esprit »
+- « la grande intelligence de ne pas montrer ses faiblesses »
+- « il évite tous les entretiens »
+- « la profondeur, réputée infinie, de son inculture. »
+
+### Axe II: monomanie
+- « Dans les salons, au bar, au fumoir, on ne le voyait jamais »
+- « il passait le plus clair de la journée dans sa cabine à s'entraîner ou à rejouer des parties sur un immense échiquier. »
+- « fierté concentrée sur soi qu'a Napoléon dans son célèbre portrait »
+- « Dès qu'il repère quelqu'un de cultivé, il se replie dans sa coquille »
+- « qui semblent s'écarter du monde, se bâtissent, tels des termites, et avec leur matériau particulier, un univers en miniature, singulier et parfaitement unique. »
