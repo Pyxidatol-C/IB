@@ -39,3 +39,9 @@
 
         you're ≠ your
         it's   ≠ its
+        
+### ADJECTIVE vs ADVERB
+- ... constant*ly*
+- ... piano *well*
+    
+Rule: If modifying a verb or adjective use an -ly (adverb) or well
