@@ -1,0 +1,60 @@
+\documentclass[12pt]{article}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\begin{document}
+
+\section{
+    Exercise 13
+}
+\subsection{
+    Show that $\vec{p}^{\,2} = \Vert \vec{p} \Vert^2$
+}
+
+\begin{align*}
+•
+    &\vec{p}^{\,2} \\
+    &= \vec{p} \cdot \vec{p} \\
+    &= \cos{0} \times \Vert \vec{p} \Vert \Vert \vec{p} \Vert \\ 
+    &= \Vert \vec{p} \Vert ^2
+\end{align*}
+
+\subsection{
+    Show that $\Vert \vec{p} + \vec{q} \Vert^2 = \Vert \vec{p} \Vert^2 + 2 \vec{p} \cdot \vec{q} + \Vert \vec{q} \Vert^2$
+}
+
+\begin{align*}
+•
+    &\Vert \vec{p} + \vec{q} \Vert^2 \\
+    &= (\vec{p} + \vec{q})^2 \\
+    &= (\vec{p} + \vec{q}) \cdot (\vec{p} + \vec{q}) \\
+    &= \vec{p}^{\,2} + 2 \vec{p} \cdot \vec{q} + \vec{q}^{\,2} \\
+    &= \Vert \vec{p} \Vert^2 + 2 \vec{p} \cdot \vec{q} + \Vert \vec{q} \Vert^2
+\end{align*}
+
+\subsection{
+    Deduce that $\Vert \vec{p} + \vec{q} \Vert \leq \Vert \vec{p} \Vert + \Vert \vec{q} \Vert$
+}
+
+\begin{align*}
+•
+    &\Vert \vec{p} + \vec{q} \Vert^2 - (\vec{p} + \vec{q})^2 \\
+    &= \Vert \vec{p} \Vert^2 
+     + 2 \vec{p} \cdot \vec{q} 
+     + \Vert \vec{q} \Vert^2 
+     - \Vert \vec{p} \Vert^2 
+     - 2 \Vert \vec{p} \Vert \Vert \vec{q} \Vert 
+     - \Vert \vec{q} \Vert^2 \\
+    &= 2 \cos{\theta} \Vert \vec{p} \Vert \Vert \vec{q} \Vert 
+     - 2 \Vert \vec{p} \Vert \Vert \vec{q} \Vert \\
+    &= 2 \Vert \vec{p} \Vert \Vert \vec{q} \Vert (\cos{\theta} - 1) \\
+    &\cos{\theta} \leq 1 \\
+    \Leftrightarrow &\cos{\theta} - 1 \leq 0 \\
+    &2 \Vert \vec{p} \Vert \Vert \vec{q} \Vert \geq 0 \\
+    \therefore &2 \Vert \vec{p} \Vert \Vert \vec{q} \Vert (\cos{\theta} - 1) \leq 0 \\
+    \Leftrightarrow &\Vert \vec{p} + \vec{q} \Vert^2 \leq (\vec{p} + \vec{q})^2 \\
+    &\Vert \vec{p} + \vec{q} \Vert \geq 0 \\
+    &\vec{p} + \vec{q} \geq 0\\
+    \therefore & \Vert \vec{p} + \vec{q} \Vert \leq \Vert \vec{p} \Vert + \Vert \vec{q} \Vert
+\end{align*}
+
+\end{document}

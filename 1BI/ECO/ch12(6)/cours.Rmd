@@ -1,0 +1,65 @@
+---
+title: "Chapitre 12 (6)"
+author: "Jingjie Yang"
+date: "1/9/2018"
+output: html_document
+---
+
+# Les défaillances du marché
+## ou
+# l'échec du marché
+### **sous-titre**: l'analyse économique du secteur publique
+
+---
+
+### Dº `externalité`
+Une `externalité` est l'effet ou impact des acteurs économiques sur le bien-être d'autrui (exemple: pollution sonore par l'aéroport) sans que cet effet soit pris en considération par le marché.
+
+---
+
+# I. Différents types du m. défaillant
+### Exclusivité et divisibilité 
+- excluable (ou non-exc.)
+  - Un bien `excluable`: il n'est pas accessible à toutes les personnes.
+- divisibilité
+  - Dº: L'utilisation d'un produit par quelqu'un ne nuit pas à son utilisation par quelqu'un d'autre.
+
+Exemple: Le cornet de glace est excluable (一个人吃了其他人就不能吃); il est aussi divisible (可以分).
+
+## Introduction: 4 types de biens
+|                     | b. privés (collectifs) | b. publics | ressources communes | monopoles naturels |
+|---------------------|:----------------------:|:----------:|:-------------------:|:------------------:|
+| excluables (rivaux) |           √            |      X     |          X          |         √          |
+| divisible           |           √            |      X     |          √          |         X          |
+
+- biens communs = ressources communes
+- La notion des ressources communes: il s'agit d'un bien patriomonial qui est juridique et socio-politique partagé par les membres d'une communauté (pays, village, quartier, etc.).
+- `patrimoine`
+- un monopole est une structure de marché caractérisée par le présence d'un seul offreur et une multitude de demandeurs.
+- exemple du monopole naturel: pompier -> la lutte contre une incendie dans la ville
+- les monopoles naturels sont excluables mais non-divisibles.
+- Musgrave: professeur de économie publique
+  - il fait une distinction entre les b. collectifs / publiques et les b. dits tutélaires = b. de valeur = merit goods
+  - c'est équivalent d'un bien sur la consommation duquel l'Etat exerce une tutelle.
+  - càd l'Etat intervient pour encourager OU décourager le publique à consommer tel produit.
+    - décourager: cigarettes
+    - encourager: prendre les transports communs
+  - un bien tutélaire peut provoquer des externalités positives ou négatives.
+
+## 1) Manque de b. publics
+moyens:
+
+- subvention -> position sociale
+- taxes -> politique fiscale
+- producteur
+
+## 2) Manque d'approvisionnement de b. bénéfique ou b. de valeur
+
+## 3) Abondance de b. nocifs = de b. nuisibles
+moyens:
+
+- économique -> prix /
+- juridique -> interdiction
+- fiscal -> taxe
+
+## 4) Externalités
