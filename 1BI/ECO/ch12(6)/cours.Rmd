@@ -63,3 +63,28 @@ moyens:
 - fiscal -> taxe
 
 ## 4) Externalités
+externalité négative: impact sur le prix & quantité: taxe -> pénurie 
+
+Les externalités négatives ont un effet un coût social, la plupart du temps liée à l'enviornnement. Ce coût social est à comparer avec le coût de production de l'entreprise. 
+
+### coût social < côut de production
+L'entreprise continuera à faire des bénéfices. 
+
+### coût social = côut de production
+L'entreprise ne fera pas de bénéfice mais ne perd pas non plus.
+
+### coût social > côut de production
+perte forte
+
+- coût privé (les coûts propres (en lien avec) au marché en question)
+- coût social / externe
+- coût de production = coût privé + coût social
+
+- coût marginal social / externe 
+    - le coût marginal social correspond au coût social de la dernière unité produite.
+- coût marginal privé
+    - coût de dernière unité produite sur le marché en question (exemple: aluminium)
+
+politique fiscale: imposer une taxe = coût externe de production
+
+=> le gouvernement internalise les externalités dans le marché.
