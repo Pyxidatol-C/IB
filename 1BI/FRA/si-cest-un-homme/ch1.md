@@ -61,6 +61,4 @@ Recherchez les éléments du premier chapitre qui décrivent le caractère autob
 - Guido
     - librarie
     - service ≠ servage
-    - as if i'm writing stuff = blah blah
-    - 
 - oncle
