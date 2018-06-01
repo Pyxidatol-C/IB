@@ -1,11 +1,6 @@
 # L'ETHIQUE + SYSTEMES DE CONNAISSANCES RELIGIEUSES
 ## ~ Ethic**s**?
 
-Pour le 14 mai: lire les pages
-* 475-479
-* 505-509
-* 479-485
-
 Ethos: (grec) l'endroit où on vit
 
 ## A. la relativité des éthiques et des valeurs
@@ -30,6 +25,34 @@ Intuition, empathie
 
 Xénophobie
 
-## D. Des exemples de dilemmes, de cas à l de conscience confrontant différentes logiques éthiques
+## D. Des exemples de dilemmes, de cas de conscience confrontant différentes logiques éthiques
 
 Utilitariste; sauver + à condition qu'on ne l'utilise pas
+
+Chaque logique éthique présente leur danger, leur bias et leur limite.
+
+=> la solution qui nous correspond mieux
+
+`utilitarisme` -> Bentham
+
+- circonstantionieliste
+- situationniste
+- conséquentialiste
+
+
+Kant:
+
+1. prescriptible = inconditionné
+
+
+M. Sendel, *Justice*
+
+Il ne faut PAS inventer des exemples!
+
+## E. Différentes logiques éthiques
+|test|**+**|**-**|
+|:-:|:-:|:-:|
+|coutumes||≠ infaillible|
+|loi|||
+|utilitarisme -> conséquentialiste|Metriopathie, EPICURE|long terme = durable ≠ immédiat; plaisir injuste; abstraite; intention ≠ conséquence|
+
