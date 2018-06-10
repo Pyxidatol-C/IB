@@ -54,5 +54,19 @@ Il ne faut PAS inventer des exemples!
 |:-:|:-:|:-:|
 |coutumes||≠ infaillible|
 |loi|||
-|utilitarisme -> conséquentialiste|Metriopathie, EPICURE|long terme = durable ≠ immédiat; plaisir injuste; abstraite; intention ≠ conséquence|
+|utilitarisme -> conséquentialiste|Metriopathie, EPICURE|long terme = durable ≠ immédiat; plaisir injuste; abstraite; intention ≠ conséquence; plaisir mauvais (plaisir lié aux cruautés)|
 
+Kant: action = bonne <=> bonne intention ≠ conséquence  
+-> égalité  
+!absolutisme ~ aveuglement principier; conflit de devoirs
+
+### Juste Milieu - l'éthique des vertus
+ARISTOTE
+- sagacité
+- médiété
+
+| - | vertus / médiété | + |
+|:-:|:----------------:|:-:|
+|   | courage          |   |
+|   | générosité       |   |
+|   | magnamité        |   |
