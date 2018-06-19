@@ -70,3 +70,7 @@ ARISTOTE
 |   | courage          |   |
 |   | générosité       |   |
 |   | magnamité        |   |
+
+### Durant l'été, lire dans le MANUEL
+- introduction + pages 1 ~ 71
+- p. 593 - 634 (Part S: Assessment)
