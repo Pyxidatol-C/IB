@@ -1,0 +1,83 @@
+Nom,Prénom,classe,Etablissement,Ville,exo 1,exo 2,exo 3,exo 4,exo 5,exo 6,exo 7,exo 8,Score,Classement
+Averous,Emile,première,Lycée Hoche,Versailles,,,,7,7,7,7,7,35,1
+Peeters,Marie,première,/,/,,,,7,7,7,7,7,35,1
+Gay,Sylvain,première,Lycée Louis-le-Grand,Paris,,,,7,7,6,7,7,34,3
+Léonard,Arthur,première,Lycée Frédéric Ozanam,Lille,,,,7,7,6,7,7,34,3
+Narozniak,Gaëtan,première,Stanislas,Paris,,,,7,6,7,7,7,34,3
+Pigé,Xavier,première,Lycée Victor Louis,Talence,,,,6,7,6,7,7,33,6
+Hamimed,Adam,première,Lycée François Mauriac Forez,Andrezieux Bouthéon,,,,7,7,4,7,7,32,7
+Zablocki,Jean,première,Lycée Algoud-Laffemas,Valence,,,,7,7,4,7,7,32,7
+HUA,Lucien,première,Lycée Louis le Grand,Paris,,,,3,7,7,7,7,31,9
+ROCQUET,Timothée,première,Lycée international Victor Hugo,Colomiers,,,,7,7,3,7,7,31,9
+Rossignol,Etienne,première,saint Jean de Passy,PARIS,,,,7,7,3,7,7,31,9
+Shirazi,Madison,première,Lycee Francais de New York,New York,,,,7,7,3,7,7,31,9
+Bouyer,Matthieu,première,Lycée Stanislas,Paris,,,,7,7,2,7,7,30,13
+CHAPOT,Clément,première,Lycée Sainte-Thérèse,Rambouillet,,,,6,7,3,7,7,30,13
+CHEN,Michaël,première,Cité scolaire internationale,Lyon,,,,7,7,2,7,7,30,13
+Fougereux,Théodore,première,Lycée David d\'Angers,Angers,,,,7,6,3,7,7,30,13
+Ringeard,Timothé,première,Victor Hugo,Colomiers,,,,7,7,2,7,7,30,13
+DUPLESSIS,Alexandre,première,Lycée Henri IV,PARIS,,,,7,6,6,7,3,29,18
+de Lambilly,Auguste,première,Stanislas,Paris,,,,7,7,0,7,7,28,19
+Finocchiaro,Leonardo,première,La Rochefoucauld,Paris,,,,7,7,0,7,7,28,19
+De Montgolfier,Nathan,première,Lycée Saint Dominique,Neuilly-sur Seine,,,,6,7,,7,7,27,21
+Rosaz,Paul,première,Lycée Louis le Grand,Paris,,,,3,7,2,7,7,26,22
+Jimenez Calles,Gabriel,première,Lycée Français de San Salvador,Santa Tecla,,,,5,5,1,7,7,25,23
+Pétry,Enora,première,Institut Notre Dame,St Germain en Laye,,,,6,7,4,7,1,25,23
+Gueugneau,Pierre,première,Lycée Madame de Staël,St-Julien en Genevois,,,,7,7,0,3,7,24,25
+Massart,Etienne,première,Lycée Georges Pompidou,Castelnau-le-Lez,,,,6,1,3,7,7,24,25
+Artru,Noé,première,Lycée Louis Armand,Chambéry,,,,1,7,5,6,4,23,27
+Ayanides,Pierre,première,Lycée Franco-Allemand,Buc,,,,7,7,2,,7,23,27
+DEGRYSE,MATHIS,première,LYCEE HENRI WALLON,VALENCIENNES,,,,7,7,2,,7,23,27
+Vassaux,Louis,première,Centre International de Valbonne,Valbonne,,,,6,7,3,,7,23,27
+Wetterwald,Mathis,première,Lycée Savina,Treguier,,,,7,7,2,0,7,23,27
+Barbu,Andrei,première,lycée Victor Hugo,Colomiers,,,,7,7,1,0,7,22,32
+Berthellemy,Léonard,première,Stanislas,Paris,,,,1,7,,7,7,22,32
+Kittel,Léonie,première,Lycée Édouard Herriot,Lyon,,,,7,7,1,7,,22,32
+Popescu,Andrei,première,Lycée Claudel,Ottawa,,,,5,6,1,3,7,22,32
+RONG,Claire,première,Lycée Louis le Grand,Paris,,,,7,7,1,7,,22,32
+Vantalon,gautier,première,fenelon sainte marie,paris,,,,7,0,1,7,7,22,32
+Caillot,Alexandre,première,Lycee Francais Charles de Gaulle,Londres,,,,6,7,4,,4,21,38
+CHABREDIER,Sylvain,première,Jeanne-d\'arc-saint-aspais,Fontainebleau,,,,7,7,0,,7,21,38
+Deloire,Nathan,première,Lycée Louis le Grand,Paris,,,,7,0,2,7,5,21,38
+Kopp,Guillaume,première,Lycée franco-allemand,Buc,,,,4,6,1,7,3,21,38
+Legros,Aymeric,première,Albert-de-Mun,Nogent-sur-Marne,,,,6,7,1,0,7,21,38
+LENORMAND,JOSEPH,première,Lycée Louis-le-Grand,Paris,,,,7,7,,,7,21,38
+Trottier,Simon,première,Institution Mongazon,Angers,,,,2,7,4,1,7,21,38
+VINCENT,Pierrick,première,Lycée Albert CLAVEILLE,PERIGUEUX,,,,6,6,0,3,6,21,38
+Houdouin,Félix,première,Aux Lazaristes,Lyon,,,,4,7,2,,7,20,46
+Molfessis,Théo,première,Lycée Condorcet,Paris,,,,7,6,0,,7,20,46
+OCHONISKY--G,RNAicNolDas,première,Lycée Louis Le Grand,Paris,,,,7,6,4,0,3,20,46
+Song,Dorian,première,Notre-Dame Saint-Sigisbert,Nancy,,,,6,7,0,,7,20,46
+Yang,Jingjie,première,Ecole Jeannine Manuel,Paris,,,,7,6,0,7,0,20,46
+Zysman,Ilan,première,lycée Champollion,grenoble,,,,7,2,1,7,3,20,46
+Audusse,Elio,première,Lycée polyvalent les pannevelles,Provins,,,,7,0,5,,7,19,52
+Chen,Victor,première,Lycee Jean Renoir,Munchen,,,,7,5,,0,7,19,52
+Gillot,Edern,première,école Jeannine Manuel,Paris,,,,6,7,,0,6,19,52
+Wattez,Lilou,première,Lycée Francais Blaise Pascal,Abidjan,,,,7,7,1,,4,19,52
+Benyamine,Axel,première,"Lycée Jules Ferry, Cannes",Cannes,,,,3,7,1,,7,18,56
+Dai,Linkai,première,Lycée International de Ferney-Vol,aFireerney-Voltaire,,,,5,0,,7,6,18,56
+Hamzaoui,Amin,première,Lycée Gabriel Fauré,Paris,,,,4,7,,7,,18,56
+LAURIOL-FRIS,UFrEançois,première,Collège et Lycée David d\'Angers,ANGERS,,,,7,0,1,3,7,18,56
+Richard,Elian,première,Pierre Beghin,Moirans,,,,0,7,1,7,3,18,56
+Delage,Claire,première,Lycée Louis-le-Grand,Paris,,,,2,7,1,0,7,17,61
+Démézet,Ewen,première,Lycée Sainte-Thérèse,Quimper,,,,3,6,1,,7,17,61
+Etienne,Alban,première,Lycée Saint-Exupéry,Blagnac,,,,7,7,,3,,17,61
+Faugere,Antoine,première,Stanislas,Paris,,,,7,,3,,7,17,61
+Grabsia,Stéphane,première,Lycée Charles.A Coulomb,Angoulême,,,,2,7,1,,7,17,61
+GUENET,Rémi,première,Lycée Auguste Renoir,Limoges,,,,3,5,2,0,7,17,61
+Morisson,Thibault,première,Notre Dame de Sainte Croix,Neuilly-sur-Seine,,,,4,6,1,5,1,17,61
+nahon,tom,première,Lycée Châteaubriand,Rennes,,,,7,7,,3,0,17,61
+Paun,Theodore,première,Notre Dame Saint Sigisbert,Nancy,,,,7,7,0,3,,17,61
+Evgeniou,Lilia,première,Ecole Jeannine Manuel,Paris,,,,2,7,,7,,16,70
+Fouquin,Sullivan,première,Lycée Stephen Liégeard,Brochon,,,,2,6,1,,7,16,70
+Henry,Virgile,première,Virgile Henry,Saint-Grégoire,,,,2,6,1,7,0,16,70
+Lorin,Amaury,première,Stanislas,Paris,,,,4,6,1,,5,16,70
+Mas,Jules,première,Louis Le Grand,Paris,,,,6,7,2,,1,16,70
+Quemener,Maena,première,Lycée Franco-Allemand,Buc,,,,1,7,1,,7,16,70
+Siboulet,Hélène,première,Aux Lazaristes,Lyon,,,,,6,3,,7,16,70
+Siot-Decauville,Thibault,première,Lycée Charles de Gaulle,Muret,,,,7,5,0,0,4,16,70
+Ward,Benjamin,première,Lycée Francais international de H,nHgo nKgo nKgong,,,,7,1,2,3,3,16,70
+BERANGER,Sophie,première,Lycée Français International de T,kTyOoK (YLFOIT),,,,2,7,2,4,,15,79
+Chevrière,Marc,première,Sainte Croix de Neuilly,Neuilly-sur-Seine,,,,4,6,1,,4,15,79
+DEBRAY,Maurice,première,Lycée Général Auguste Brizeux,QUIMPER,,,,3,5,,7,,15,79
+Delmas,Milan,première,Notre Dame de la Compassion,Pontoise,,,,6,7,1,,1,15,79
